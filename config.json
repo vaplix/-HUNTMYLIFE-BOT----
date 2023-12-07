@@ -1,0 +1,9 @@
+{
+	"ip":"HUNTMYLIFE.aternos.me",
+	"port": 50013,
+	"name": "IAMNOTBOT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Iamgoodbotnotbad Iamgoodbotnotbad",
+	"login-cmd":"/login Iamgoodbotnotbad"
+}
